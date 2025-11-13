@@ -1,6 +1,6 @@
 # 2. Raspberry Pi Development Tutorial
 
-<img class="common_img" src="../_static/media/chapter_1/section_2/media/image3.png" style="width:150px" />
+<img class="common_img" src="../_static/media/chapter_1/section_2/media/image3.png" style="width:200px" />
 
 ## 2.1 Getting Started
 
@@ -8,7 +8,7 @@
 
 When wiring the MP3 module, connect its 5V, GND, SDA, and SCL pins to the corresponding pins on the Raspberry Pi.
 
-<img class="common_img" src="../_static/media/chapter_1/section_2/media/image4.png" style="width:500px" />
+<img class="common_img" src="../_static/media/chapter_1/section_2/media/image4.png" style="width:700px" />
 
 > [!NOTE]
 >

@@ -1,6 +1,6 @@
 # 1. MP3 Module Instruction
 
-<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:300px" />
+<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:500px" />
 
 ## 1.1 MP3 Module Description
 
@@ -26,7 +26,7 @@ It uses IIC communication and the DSP of the digital signal device to complete t
 
 For detailed specifications and chip diagrams, you may refer to **"[MP3 Module Schematic](https://drive.google.com/drive/folders/1ZA2AW5js94n09_-81eO4HLDOB306F1Ss?usp=sharing)"**
 
-<img class="common_img" src="../_static/media/chapter_1/section_1/media/image3.png" style="width:300px" />
+<img class="common_img" src="../_static/media/chapter_1/section_1/media/image3.png" style="width:500px" />
 
 | **Pin** | **Instruction** |
 | :------ | :-------------- |
